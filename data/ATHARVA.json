@@ -1,0 +1,10 @@
+{
+    "title" :"Batman",
+    "image" :"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/23/920752-batman-film.jpg",
+    "description" :"A tortured, brooding vigilante dressed as a bat who fights against evil and strikes fear into the hearts of criminals everywhere",
+    "power" :["Tech Suit","Fearless","Martial Artist","High Intelligence"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"It's not who I am underneath, but what I do that defines me.",
+    "author" : "ATHARVA"
+}
